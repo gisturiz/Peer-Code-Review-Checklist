@@ -1,4 +1,4 @@
-# Lambda School Peer Code Review Checklist
+# Lambda School Peer Code Review C
 
 Code review is the time to catch issues and help students who don't understand concepts from the day or week. Students can use the peer code review as an opportunity to push and challenge each other technically. While students should feel free to ask questions, they should also be ready to explain and defend their code.
 
